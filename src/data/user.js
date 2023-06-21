@@ -3,7 +3,7 @@ const INFO = {
 		title: "By Vrushab Hanumesh",
 		name: "Vrushab Hanumesh",
 		email: "vrushab1998@gmail.com",
-		logo: "../logo.png",
+		logo: "../logo.jpg",
 	},
 
 	socials: {
@@ -85,7 +85,7 @@ const INFO = {
 			title: "Portfolio",
 			description:
 				"Developed a full stack web application for creating my own portfolio including my experiences and other extra caricular acivities. I will keep updating this",
-			logo: "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
 			linkText: "View Project",
 			link: "https://github.com/VrushabHayagreev/Portfolio",
 			

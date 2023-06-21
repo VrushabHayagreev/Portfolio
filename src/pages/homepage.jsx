@@ -17,6 +17,7 @@ import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
 import Article from "../components/homepage/article";
 import Works from "../components/homepage/works";
+import Education from "../components/homepage/Education";
 import AllProjects from "../components/projects/allProjects";
 
 import INFO from "../data/user";
@@ -171,7 +172,17 @@ const Homepage = () => {
 						<div className="homepage-projects">
 							<AllProjects />
 						</div>
-
+						<div className="homepage-after-title">
+						<div className="homepage-works">
+								<Works />
+							</div>
+							
+						
+						<div className="homepage-works">
+								<Education />
+							</div>
+						</div>
+						
 						<div className="homepage-after-title">
 							<div className="homepage-articles">
 								{myArticles.map((article, index) => (
@@ -189,11 +200,9 @@ const Homepage = () => {
 									</div>
 								))}
 							</div>
-
-							<div className="homepage-works">
-								<Works />
 							</div>
-						</div>
+							
+						
 
 						<div className="page-footer">
 							<Footer />

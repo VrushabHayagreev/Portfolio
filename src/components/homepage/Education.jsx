@@ -5,12 +5,12 @@ import Card from "../common/card";
 
 import "./styles/works.css";
 
-const Works = () => {
+const Education = () => {
 	return (
 		<div className="works">
 			<Card
 				icon={faBriefcase}
-				title="Work"
+				title="Education"
 				body={
 					<div className="works-body">
 						<div className="work">
@@ -19,11 +19,11 @@ const Works = () => {
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Qualcomm</div>
+							<div className="work-title">Indiana University Bloomington</div>
 							<div className="work-subtitle">
-								Programmer Analyst
+								Masters in Computer Science 
 							</div>
-							<div className="work-duration"> June 2020 - May 2021</div>
+							<div className="work-duration"> Aug 2021 - May 2023</div>
 						</div>
 
 						<div className="work">
@@ -32,11 +32,11 @@ const Works = () => {
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Qualcomm</div>
+							<div className="work-title">JSS Science and Technology University</div>
 							<div className="work-subtitle">
-								Intern
+							Bachelors in Computer Science 
 							</div>
-							<div className="work-duration">Jan 2020 - June 2020</div>
+							<div className="work-duration">Aug 2016 - Aug 2020</div>
 						</div>
 					</div>
 				}
@@ -45,4 +45,4 @@ const Works = () => {
 	);
 };
 
-export default Works;
+export default Education;
