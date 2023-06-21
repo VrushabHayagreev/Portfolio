@@ -15,15 +15,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full Stack web developer and a part time gamer",
+		title: "Full Stack web developer and a part-time Gamer",
 		description:
-			"I am a Full stack Web Developer with a years experience working on React, NodeJS and Mysql. I have a masters degree in computer science and i like to build scalable and reliable web applications.",
+			"I am a Full stack Web Developer with years of experience working on React, NodeJS, and Mysql. I have a master's degree in computer science and I like to build scalable and reliable web applications.",
 	},
 
 	about: {
-		title: "Hi, I am Vrushab Hanumesh a full time developer and a part time gamer",
+		title: "Hi, I am Vrushab Hanumesh a full-time developer and a part-time gamer",
 		description:
-			"My home page gives a pretty clear idea of my experience and projects but here i want to tell about my other side. I am a part time gamer with a small yotube channel where i stream pubg and valorant i am pretty good at PUBG i think. I like reading books, i have abookstragram accountwhere i post reviews i am planning to build an application for that as well pretty soon",
+			"My home page gives a pretty clear idea of my experience and projects but here I want to tell about my other side. I am a part-time gamer with a small youtube channel where i stream pubg and valorant i am pretty good at PUBG i think. I like reading books, i have abookstragram accountwhere i post reviews i am planning to build an application for that as well pretty soon",
 	},
 
 	articles: {
@@ -40,7 +40,7 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/VrushabHayagreev/Flashship",
-			Demo : "https://github.com/VrushabHayagreev/Flashship",
+			
 		},
 
 		{
@@ -59,7 +59,7 @@ const INFO = {
 			logo: "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8d58e1295b8ad54a323f7f5ac55e5280/google-maps-api.png",
 			linkText: "View Project",
 			link: "https://github.com/VrushabHayagreev/PG-Finder",
-			Demo : "https://github.com/VrushabHayagreev/Flashship",
+			
 		},
 
 		{
@@ -69,17 +69,26 @@ const INFO = {
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/800px-Bitcoin.svg.png",
 			linkText: "View Project",
 			link: "https://github.com/VrushabHayagreev/Bitcoin-Prediction-Using-RNN",
-			Demo : "https://github.com/VrushabHayagreev/Flashship",
+			
 		},
 
 		{
-			title: "RTo Management System",
+			title: "RTO Management System",
 			description:
 				"Developed a full stack web application to help the user to get the license, allow the official to issue driving license, fine, delete the user and update the user data",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png",
 			linkText: "View Project",
 			link: "https://github.com/VrushabHayagreev/RTO-Management-System",
-			Demo : "https://github.com/VrushabHayagreev/Flashship",
+			
+		},
+		{
+			title: "Portfolio",
+			description:
+				"Developed a full stack web application for creating my own portfolio including my experiences and other extra caricular acivities. I will keep updating this",
+			logo: "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+			linkText: "View Project",
+			link: "https://github.com/VrushabHayagreev/Portfolio",
+			
 		},
 	],
 };
