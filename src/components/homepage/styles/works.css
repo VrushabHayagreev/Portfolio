@@ -21,7 +21,7 @@ border-radius: 2px;
 
 .skills-container{
 display: grid;
-grid-tempLate-columns: repeat(5, 1fr);
+grid-tempLate-columns: repeat(8, 1fr);
 justify-content:center;
 align-items:center;
 text-align: center;
@@ -30,10 +30,7 @@ padding: 1rem 30px;
 font-size: 1.2rem;
 }
 
-.skills-box:hover > .skills-title: after, 
-.skills-box:hover > .skills-title: before{
-width: 30px;
-}
+
 .skills-box:hover .skills-img{
 transform: translateX(-20px);
 }
