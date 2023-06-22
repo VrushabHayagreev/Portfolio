@@ -15,7 +15,7 @@ const Education = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="https://pbs.twimg.com/profile_images/1651635610333990914/67e2ljBD_400x400.png"
+								src="https://gray-wfie-prod.cdn.arcpublishing.com/resizer/EY3VY08oIqzIXh6AYavrWeSB7ck=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/F5QECMPNIVAPHP2KXRLNJBTTYQ.jpg"
 								alt="facebook"
 								className="work-image"
 							/>
@@ -28,7 +28,7 @@ const Education = () => {
 
 						<div className="work">
 							<img
-								src="https://pbs.twimg.com/profile_images/1651635610333990914/67e2ljBD_400x400.png"
+								src="https://jssstuniv.in/wp-content/uploads/2020/11/logo-for-web-site-footer.jpg"
 								alt="twitter"
 								className="work-image"
 							/>

@@ -18,6 +18,7 @@ import NavBar from "../components/common/navBar";
 import Article from "../components/homepage/article";
 import Works from "../components/homepage/works";
 import Education from "../components/homepage/Education";
+import Skills from "../components/homepage/Skills";
 import AllProjects from "../components/projects/allProjects";
 
 import INFO from "../data/user";
@@ -182,7 +183,9 @@ const Homepage = () => {
 								<Education />
 							</div>
 						</div>
-						
+						<div className="homepage-works">
+								<Skills />
+							</div>
 						<div className="homepage-after-title">
 							<div className="homepage-articles">
 								{myArticles.map((article, index) => (

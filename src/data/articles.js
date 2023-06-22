@@ -23,12 +23,23 @@ function article_1() {
 					align-self: center;
 					outline: 2px solid red;
 				}
-				`,
+			
+				
+				`
+				,
 		body: (
 			<React.Fragment>
 				<div className="article-content">
-				<embed src="https://www.ijtre.com/images/scripts/2020080104.pdf" width="800px" height="2100px" />
+					<br></br>
+				<embed src="https://www.ijtre.com/images/scripts/2020080104.pdf" width="1000px" height="800px" />
+				<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet"/>
+					<a class="btn btn-primary" target="_blank" href="https://www.ijtre.com/images/scripts/2020080104.pdf">View and Download</a>
 				</div>
+				<div className="center">
+				<img src="https://drive.google.com/uc?export=view&id=1lhjEl5K4GG6vgvSJQvbhEk8mTY3jXE73"  width="1000"  height="600"></img>
+				</div>
+				
+				
 			</React.Fragment>
 		),
 	};
@@ -50,8 +61,17 @@ function article_2() {
 		body: (
 			<React.Fragment>
 			<div className="article-content">
-			<embed src="https://www.ijtre.com/images/scripts/2020071223.pdf" width="800px" height="2100px" />
+			<embed src="https://www.ijtre.com/images/scripts/2020071223.pdf" width="1000px" height="700px" />
+			<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet"/>
+					<a class="btn btn-primary" target="_blank" href="https://www.ijtre.com/images/scripts/2020071223.pdf">View and Download</a>
+					
 			</div>
+			<br></br>
+			<br></br>
+			<div className = "center">
+			<img src="https://drive.google.com/uc?export=view&id=1xWfmI7EnG6yb1-ZTZasM1nBqoTfJ_EkH" width="1000"  height="600"></img>
+			</div>
+			
 			</React.Fragment>
 		),
 	};

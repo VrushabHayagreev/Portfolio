@@ -64,11 +64,12 @@ const ReadArticle = () => {
 							</div>
 
 							<div className="title read-article-title">
-								{article().title}
+								<h3> {article().title}</h3>
 							</div>
 
 							<div className="read-article-body">
 								<ArticleStyle>{article().body}</ArticleStyle>
+			
 							</div>
 						</div>
 					</div>

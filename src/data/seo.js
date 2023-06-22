@@ -2,14 +2,14 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a Full stack Web Developer with a years experience working on React, NodeJS and Mysql. I have a masters degree in computer science and i like to build scalable and reliable web applications.",
+			"I am a Full stack Web Developer with a years experience working on React, NodeJS, Mysql PERL and Splunk. I have a masters degree in computer science and i like to build scalable and reliable web applications.",
 		keywords: ["Vrushab Hanumesh"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a Full stack Web Developer with a years experience working on React, NodeJS and Mysql. I have a masters degree in computer science and i like to build scalable and reliable web applications.",
+			"I am a Full stack Web Developer with a years experience working on React, NodeJS, Mysql PERL and Splunk. I have a masters degree in computer science and i like to build scalable and reliable web applications.",
 		keywords: ["Vrushab Hanumesh"],
 	},
 
