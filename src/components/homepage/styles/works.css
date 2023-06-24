@@ -21,7 +21,7 @@ border-radius: 2px;
 
 .skills-container{
 display: grid;
-grid-tempLate-columns: repeat(8, 1fr);
+grid-tempLate-columns: repeat(6, 1fr);
 justify-content:center;
 align-items:center;
 text-align: center;

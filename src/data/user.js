@@ -90,6 +90,24 @@ const INFO = {
 			link: "https://github.com/VrushabHayagreev/Portfolio",
 			
 		},
+		{
+			title: "Wireless Digital notice Board Using Raspberry Pie",
+			description:
+				"Built a Web application for the computer science department of my college for handling he academic activities for both faculties and students like assignments, grading etc. Used Raspberry Pie to display it on a wireless notice board",
+			logo: "https://www.shutterstock.com/image-vector/internet-things-glyph-icon-silhouette-260nw-1172566369.jpg",
+			linkText: "View Project",
+			link: "https://github.com/VrushabHayagreev/Wireless-Digital-Board",
+			
+		},
+		{
+			title: "BookishWiz",
+			description:
+				"Developer a NextJS Blog application to display all my book reviews which i have written over the years. Used GraphQL for creating the queries and stroring data.",
+			logo: "https://www.svgrepo.com/show/354113/nextjs-icon.svg",
+			linkText: "View Project",
+			link: "https://github.com/VrushabHayagreev/BookishWiz",
+			
+		},
 	],
 };
 

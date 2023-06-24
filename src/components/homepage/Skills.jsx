@@ -204,6 +204,42 @@ const Education = () => {
         </div>
         
        </div>
+       <div class="skills-box">
+       <div class="skills-title">
+       <div class="skills-img">
+        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="" class="skills-icons"></img>
+        </div>
+        <h3>NEXT JS</h3>
+        </div>
+        
+       </div>
+       <div class="skills-box">
+       <div class="skills-title">
+       <div class="skills-img">
+        <img src="https://graphql.js.cool/img/twitter_image.png" alt="" class="skills-icons"></img>
+        </div>
+        <h3>GRAPH QL</h3>
+        </div>
+        
+       </div>
+       <div class="skills-box">
+       <div class="skills-title">
+       <div class="skills-img">
+        <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ0XC1HyHho088Uc-M_-bCrT8s45kSQefGF26k94yTd36UuhoO8rsPizA2JRj8n8wrAN8&usqp=CAU" alt="" class="skills-icons"></img>
+        </div>
+        <h3>NETLIFY</h3>
+        </div>
+        
+       </div>
+       <div class="skills-box">
+       <div class="skills-title">
+       <div class="skills-img">
+        <img src="https://logowik.com/content/uploads/images/heroku8748.jpg" alt="" class="skills-icons"></img>
+        </div>
+        <h3>HEROKU</h3>
+        </div>
+        
+       </div>
        </div>
        
     
