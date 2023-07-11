@@ -21,6 +21,7 @@ const AllProjects = () => {
 				</div>
 			))}
 		</div>
+		
 	);
 };
 

@@ -108,6 +108,24 @@ const INFO = {
 			link: "https://github.com/VrushabHayagreev/BookishWiz",
 			
 		},
+		{
+			title: "Rahuls Portfolio",
+			description:
+				"Developer a Basic HTML portfolio for my roomnate where i developed the frontend and he did the requirement gathering",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png",
+			linkText: "View Project",
+			link: "https://github.com/VrushabHayagreev/RahulsPortfolio",
+			
+		},
+		{
+			title: "S8ul",
+			description:
+				"Developer Next JS application for the s8ul organization a one stop for every details about s8ul from content creation, esport, tournaments, achievements to owners.",
+			logo: "https://www.svgrepo.com/show/354113/nextjs-icon.svg",
+			linkText: "View Project",
+			link: "https://github.com/VrushabHayagreev/s8ul",
+			
+		},
 	],
 };
 
